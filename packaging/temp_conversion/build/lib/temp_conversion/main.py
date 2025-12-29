@@ -6,8 +6,8 @@ import yaml
 #---------------------
 # Import local modules
 #---------------------
-# TODO: import the appropriate module here
-
+# TODO: import the appropriate module here DONE
+from .functions import temperature_functions
 
 # Obtain the YAML file name from the command line
 #-------------------------------------------

@@ -9,3 +9,7 @@ __pycache__
 .vscode
 .idea
 lightning_logs
+
+# pixi environments
+.pixi
+*.egg-info

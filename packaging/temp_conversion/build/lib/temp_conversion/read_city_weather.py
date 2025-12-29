@@ -4,7 +4,8 @@ import os
 import yaml
 from datetime import datetime
 
-# TODO: import the appropriate module here
+# TODO: import the appropriate module here DONE
+import temperature_functions
 
 # Obtain the YAML file name from the command line
 #-------------------------------------------
